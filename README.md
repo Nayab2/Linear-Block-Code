@@ -94,8 +94,8 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output Waveform
-<img width="624" height="1071" alt="image" src="https://github.com/user-attachments/assets/526c3a60-31e1-4b10-9a51-1df79a8f37ca" />
 
+<img width="624" height="1071" alt="image" src="https://github.com/user-attachments/assets/526c3a60-31e1-4b10-9a51-1df79a8f37ca" />
 
 # Results
 ```
